@@ -39,9 +39,7 @@ import java.nio.ByteBuffer;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by mingya.wmy on 2015/8/12.
- */
+
 public class DFSUtil {
     private static final Logger LOG = LoggerFactory.getLogger(HdfsReader.Job.class);
 
